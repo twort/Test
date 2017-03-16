@@ -76,9 +76,19 @@ div {
 
 .howContainer {
   margin-top: 5px;
-  width: 920px;
-  margin-left: auto;
+  width: 736px;
+  margin-left: 350px;
   margin-right: auto;
   background-color: beige;
   height: 500px;
+}
+
+.howHead {
+  color: #a9b8ce;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.howText {
+  color: grey;
 }
